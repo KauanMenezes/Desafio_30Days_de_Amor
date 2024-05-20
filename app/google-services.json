@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567230187017",
+    "project_id": "desafio-30days",
+    "storage_bucket": "desafio-30days.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567230187017:android:f9ac51c170130276831ad8",
+        "android_client_info": {
+          "package_name": "com.example.desafio_30days"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaSGXwZePrFtLToq8zqNyqBqPXa5P7puE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
